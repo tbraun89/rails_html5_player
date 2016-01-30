@@ -180,7 +180,7 @@ DEPENDENCIES
   coveralls (~> 0.8.10)
   rails_html5_player!
   rspec-rails (~> 3.4)
-  sqlite3 (~> 1.3.11)
+  sqlite3 (= 1.3.11)
   tzinfo-data
 
 BUNDLED WITH
