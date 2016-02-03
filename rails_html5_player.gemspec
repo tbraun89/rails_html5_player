@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'sass-rails', '~> 5.0'
   s.add_dependency 'coffee-rails', '~> 4.1'
 
-  s.add_development_dependency 'sqlite3', '~> 1.3'
   s.add_development_dependency 'rspec-rails', '~> 3.4'
   s.add_development_dependency 'coveralls', '~> 0.8.10'
 end
