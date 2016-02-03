@@ -139,8 +139,6 @@ GEM
     tilt (2.0.2)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2016.1)
-      tzinfo (>= 1.0.0)
 
 PLATFORMS
   x64-mingw32
@@ -149,7 +147,6 @@ DEPENDENCIES
   coveralls (~> 0.8.10)
   rails_html5_player!
   rspec-rails (~> 3.4)
-  tzinfo-data
 
 BUNDLED WITH
    1.10.6
